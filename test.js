@@ -1,8 +1,2 @@
-// var pluginName = "defaultPluginName";
-//
-// function getPluginName() {
-//     pluginName = "anothername";
-//     return pluginName;
-// }
-//
-// getPluginName();
+var a = 1;
+var b = 2;
