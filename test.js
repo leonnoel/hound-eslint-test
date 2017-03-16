@@ -1,8 +1,8 @@
-// var pluginName = "defaultPluginName";
-//
-// function getPluginName() {
-//     pluginName = "anothername";
-//     return pluginName;
-// }
-//
-// getPluginName();
+var pluginName = "defaultPluginName";
+
+function getPluginName( event ) {
+    pluginName = "anothername";
+    return pluginName;
+}
+
+getPluginName();
